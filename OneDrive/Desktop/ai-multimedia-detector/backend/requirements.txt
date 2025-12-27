@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy
+librosa
+httpx
+beautifulsoup4
+openai
+python-dotenv
